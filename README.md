@@ -8,6 +8,13 @@
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-prado&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-prado&theme=dark)](https://github.com/luiz-prado/github-readme-stats)
 
+## Sobre mim
+
+- 🌱 Tenho 24 anos e moro em São Bernardo do Campo-SP. Atualmente estudo Ciência da Computação na UFABC e estou iniciando uma nova graduação em Data Science, na FIAP.
+- 🔭 Sou apaixonado pelo mundo de dados e, atualmente, estou aprendendo e me aprofundando em Ciência e Engenharia de Dados. 
+- 🧑‍💼 Trabalhei por 4 anos no Itaú Unibanco (2 anos como estagiário e 2 como analista de dados), onde pude aprender muuuito e ter a certeza que atuar com dados é minha paixão.
+- 🎮 Nas horas vagas costumo jogar Valorant (eterno diamante) e outros joguinhos.
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -16,5 +23,3 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
