@@ -5,7 +5,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/luizzzbp)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sheeran_coffe?si=a07062044fcc400a)
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-prado&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-prado&theme=dark)
 
 ## Sobre mim
