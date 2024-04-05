@@ -11,7 +11,7 @@
 
 - 🌱 Tenho 24 anos e moro em São Bernardo do Campo-SP. Atualmente estudo Ciência da Computação na UFABC e estou iniciando uma nova graduação em Data Science, na FIAP.
 - 🔭 Sou apaixonado pelo mundo de dados e, atualmente, estou aprendendo e me aprofundando em Ciência e Engenharia de Dados. 
-- 🧑‍💼 Trabalhei por 4 anos no Itaú Unibanco (2 anos como estagiário e 2 como analista de dados), onde pude aprender muuuito e ter a certeza que atuar com dados é minha paixão e atualmente estou atuando como Analista de Dados Pleno na Celcoin.
+- 🧑‍💼 Atuo como Analista de Dados na Celcoin.
 - 🎮 Nas horas vagas costumo jogar Valorant (eterno diamante) e outros joguinhos.
 
 ## Tecnologias que eu uso no meu dia
