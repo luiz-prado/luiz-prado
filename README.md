@@ -6,6 +6,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sheeran_coffe?si=a07062044fcc400a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-prado)](https://github.com/luiz-prado/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-prado&show_icons=true)  
 
 ## Sobre mim
