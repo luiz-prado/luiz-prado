@@ -5,7 +5,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/luizzzbp)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sheeran_coffe?si=a07062044fcc400a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-prado&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-prado)](https://github.com/luiz-prado/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-prado&show_icons=true)  
 
 ## Sobre mim
 
@@ -13,8 +14,10 @@
 - 🔭 Sou apaixonado pelo mundo de dados e, atualmente, estou aprendendo e me aprofundando em Ciência e Engenharia de Dados. 
 - 🧑‍💼 Atuo como Analista de Dados na Celcoin.
 - 🎮 Nas horas vagas costumo jogar Valorant (eterno diamante) e outros joguinhos.
+- 🥇 Conquistei a primeira colocação em um Hackathon interno no Itaú Unibanco, desenvolvendo uma solução de IA Generativa.
+- 📃 Possuo certificação em nuvem AWS - Cloud Practitioner.
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
