@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-- 🌱 Tenho 24 anos e moro em São Bernardo do Campo-SP. Atualmente estudo Ciência da Computação na UFABC e estou iniciando uma nova graduação em Data Science, na FIAP.
+- 🌱 Tenho 24 anos e moro em São Bernardo do Campo-SP. Atualmente em uma graduação em Data Science na FIAP.
 - 🔭 Sou apaixonado pelo mundo de dados e, atualmente, estou aprendendo e me aprofundando em Ciência e Engenharia de Dados. 
 - 🧑‍💼 Atuo como Analista de Dados na Celcoin.
 - 🎮 Nas horas vagas costumo jogar Valorant (eterno diamante) e outros joguinhos.
