@@ -13,9 +13,9 @@
 
 - 🌱 Tenho 24 anos e moro em São Bernardo do Campo-SP. Atualmente em uma graduação em Data Science na FIAP.
 - 🔭 Sou apaixonado pelo mundo de dados e, atualmente, estou aprendendo e me aprofundando em Ciência e Engenharia de Dados. 
-- 🧑‍💼 Atuo como Analista de Dados na Celcoin.
+- 🧑‍💼 Atuo como Analista de Produtos (com foco em analytics) no Banco PAN.
 - 🎮 Nas horas vagas costumo jogar Valorant (eterno diamante) e outros joguinhos.
-- 🥇 Conquistei a primeira colocação em um Hackathon interno no Itaú Unibanco, desenvolvendo uma solução de IA Generativa.
+- 🥇 Conquistei a primeira colocação em um Hackathon interno no Itaú Unibanco, desenvolvendo uma solução de IA Generativa visando a melhoria do NPS da empresa.
 - 📃 Possuo certificação em nuvem AWS - Cloud Practitioner.
 
 ## Tecnologias que utilizo no meu dia a dia
